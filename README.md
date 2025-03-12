@@ -1,4 +1,4 @@
-#🔮Metal Price Forecasting App
+##Metal Price Forecasting App
 
 A Machine Learning application that predicts future metal prices based on historical trends and inflation rates.
 
@@ -72,6 +72,7 @@ Go to Streamlit Cloud
 Deploy by selecting your repository
 
 👩‍💻 Author
+
 📌 Shital Chavan
 📧 shital8580@gmail.com
 🔗 GitHub: shital8580
