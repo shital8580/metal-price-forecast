@@ -1,4 +1,4 @@
-##🔮 Metal Price Forecasting App
+#🔮Metal Price Forecasting App
 
 A Machine Learning application that predicts future metal prices based on historical trends and inflation rates.
 
